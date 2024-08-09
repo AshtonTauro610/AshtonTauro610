@@ -16,7 +16,7 @@
 </ul>
 
 <h2>🛠️ Technologies & Tools</h2>
-<img align="right" alt="tools" height="180" width="400" src="https://i.pinimg.com/originals/02/22/e3/0222e349befcf90d28630d466b6e3aa8.gif">
+<img align="right" alt="tools" height="150" width="400" src="https://i.pinimg.com/originals/02/22/e3/0222e349befcf90d28630d466b6e3aa8.gif">
 
 <ul>
 <li><strong>Programming Languages:</strong> Python, C++</li>
