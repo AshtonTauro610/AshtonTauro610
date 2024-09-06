@@ -27,7 +27,7 @@
 </ul>
 
 <h2>📊 Projects</h2>
-<img align="right" alt="tools" height="540" width="400" src=https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif?
+<img align="right" alt="tools" height="540" width="400" src=https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif?>
 <h3><strong>Bike Purchase Management System</strong></h3>
 <p>I developed a Python-based application using MySQL and Tkinter where users can input details for the bike they want to buy. The application stores all user inputs in a MySQL database, allowing for easy management and retrieval of purchase data. This project helped me gain experience with GUI development in Python, database integration, and handling user inputs efficiently.</p>
 
@@ -58,8 +58,13 @@
   </a>&emsp; 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>     
+  </a>&emsp;      
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> &emsp; 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>&emsp; 
 </p>
+
 
 <h3 align="center">Thank You!</h3>
 <p align="center">Thank you for taking the time to visit my GitHub profile and check out my projects. I appreciate your interest and support. If you have any questions or just want to connect, feel free to reach out!</p>
