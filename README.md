@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">👋 Hello, I'm Ashton!😎</h1>
-<h3 align="center">I'm an 18-year-old first-year Computer Science student with a focus on Big Data. I'm passionate about leveraging data to drive insights, and I'm excited to share my journey in tech with you.</h3>
+<h3 align="center">I'm an 18-year-old second-year Computer Science student with a focus on Big Data. I'm passionate about leveraging data to drive insights, and I'm excited to share my journey in tech with you.</h3>
 
 
 <h2>🚀 About Me</h2>
