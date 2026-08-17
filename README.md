@@ -19,11 +19,14 @@
 <img align="right" alt="tools" height="150" width="400" src="https://i.pinimg.com/originals/02/22/e3/0222e349befcf90d28630d466b6e3aa8.gif">
 
 <ul>
-<li><strong>Programming Languages:</strong> Python, C++</li>
-<li><strong>Data Technologies:</strong> MySQL</li>
-<li><strong>Version Control:</strong>GitHub</li>
-<li><strong>IDEs:</strong> Visual Studio, PyCharm, Thonny, CodeBlocks</li>
-<li><strong>Web Technologies:</strong> HTML, Node.js</li>
+<li><strong>Programming Languages:</strong> Python, C++, Go</li>
+<li><strong>Data Technologies:</strong> MySQL, MongoDB, SQL</li>
+<li><strong>Data/BI:</strong> Tableau, Power BI</li>
+<li><strong>ML/AI:</strong> All types of ML algorithms (supervised, unsupervised, reinforcement learning), XGBoost, scikit-learn, Gemini API</li>
+<li><strong>Big Data:</strong> Kafka, Spark, Hive, Hadoop, MapReduce</li>
+<li><strong>Web/Backend:</strong> FastAPI, React, Node.js, HTML, Gin (Go)</li>
+<li><strong>Version Control:</strong> Git, GitHub</li>
+<li><strong>IDEs:</strong> Visual Studio, PyCharm, Thonny, CodeBlocks, RStudio</li>
 </ul>
 
 <h2>📊 Projects</h2>
