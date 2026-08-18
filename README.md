@@ -30,16 +30,43 @@
 </ul>
 
 <h2>📊 Projects</h2>
-<img align="right" alt="tools" height="540" width="400" src=https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif?>
-<h3><strong>Bike Purchase Management System</strong></h3>
-<p>I developed a Python-based application using MySQL and Tkinter where users can input details for the bike they want to buy. The application stores all user inputs in a MySQL database, allowing for easy management and retrieval of purchase data. This project helped me gain experience with GUI development in Python, database integration, and handling user inputs efficiently.</p>
+<img align="right" alt="tools" width="1080" height="400" alt="image" src="https://github.com/user-attachments/assets/f30a41a7-9f20-4c52-9c11-207748134a28" />
 
-<h3><strong>Zelvina Hotel Management</strong></h3>
-<p>Developed a hotel management system in C++ that provides a simple menu for managing various aspects of hotel operations. The system includes features for managing rooms, checking in and out guests, handling bookings, and generating bills. This project allowed me to practice my skills in C++ and gain experience with basic data management and user interface design.</p>
+<h3><strong>PowerBI-Job-Dashboard</strong></h3>
+<p>An interactive Power BI dashboard analyzing 470+ global sales job listings across 2024, covering salary benchmarks, job location trends, and skill requirements. Built with Power BI and DAX for dynamic data visualization and insights.</p>
 
-<h3><strong>Recipe Management Website</strong></h3>
-<p>Created a dynamic website using HTML, Node.js, and JavaScript with distinct admin and user pages. The admin functionalities include login, signup, viewing, adding, and deleting recipes, as well as checking their contributions. Users can browse recipes by categories or search for specific ones. This project helped me refine my skills in web development, including server-side scripting with Node.js, front-end design with HTML, and dynamic content handling with JavaScript.</p>
+<h3><strong>PowerBI-Sales-Dashboard</strong></h3>
+<p>A beverage sales performance dashboard built in Power BI covering August to December 2022. It contains KPI cards, trend visualizations, and geographic bubble maps for real-time sales monitoring and analysis.</p>
 
+<h3><strong>PowerBI-HR-Dashboard</strong></h3>
+<p>A comprehensive HR insights dashboard built in Power BI for analyzing workforce data, headcount trends, attrition rates, and performance metrics across multiple layers. Features strategic home page for key dashboards.</p>
+
+<h3><strong>goapi</strong></h3>
+<p>A modern REST API for managing rides, built with Go and the Gin web framework. Follows clean architecture with Model, Repository, Service, and Handler layers. Full request validation and error handling.</p>
+
+<h3><strong>OptiSense-Triage</strong></h3>
+<p>An intelligent emergency department triage system featuring AI-driven patient routing. Processes 64 health indicators and symptoms to prioritize care for maximum efficiency.</p>
+
+<h3><strong>OptiRide</strong></h3>
+<p>An intelligent delivery fleet management system powered by AI. Features real-time IoT monitoring, AI-powered driver scheduling, and dynamic route optimization for efficient logistics.</p>
+
+<h3><strong>OptRoute - Intelligent-Ride-Allocation-System</strong></h3>
+<p>A sophisticated ride allocation system leveraging AI and historical criteria optimization. Matches drivers with customers based on real-time data and predictive analytics to optimize operational efficiency.</p>
+
+<h3><strong>SentimenteX - Code-Switched-Sentiment-Analysis</strong></h3>
+<p>A pipeline for Hinglish sentiment analysis using PySpark & NLP. Performs text preprocessing, code-switched language detection, and sentiment classification with Hugging Face transformers.</p>
+
+<h3><strong>Autonomous-Robot-Navigation-using-Deep-Reinforcement-Learning</strong></h3>
+<p>Developed an autonomous robot navigation system using deep reinforcement learning in the Unity Engine, enabling agents to learn collision-free behavior in dynamic environments.</p>
+
+<h3><strong>Bike-Purchase-Management-System</strong></h3>
+<p>A Python-based application using MySQL and Tkinter where users can input details for the bike they want to buy. The application stores all user inputs in a MySQL database, allowing for easy management and retrieval of purchase data. Demonstrates GUI development, database integration, and efficient user input handling.</p>
+
+<h3><strong>Zelvina-Hotel-Management</strong></h3>
+<p>A comprehensive C++ application for hotel administration, enabling efficient management of hotel operations. Features room management, guest check-in/check-out, booking handling, and automated bill generation.</p>
+
+<h3><strong>Chef-Savvy-Recipes-Website</strong></h3>
+<p>A dynamic recipe sharing platform built with HTML, Node.js, and JavaScript featuring distinct admin and user interfaces. Admin functionalities include login, signup, recipe management, and contribution tracking. Users can browse recipes by categories or search for specific ones.</p>
 
 
 <h3 align="center">Languages and Tools:</h3>
